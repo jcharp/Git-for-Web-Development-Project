@@ -126,4 +126,21 @@ https://codepen.io/jcharp/pen/WNvwXxP?editors=1100
         click on dropdown that says base repositoy and change it to the forked repo 
         add Tl reviewers
         click create pull request 
-        
+
+
+        Stretch Questions
+
+    1. What is the difference between an inline element and a block element?
+        an inline does not start a new line and only takes up as much width as necessary. A block element always starts a new line and takes up the full wdth available
+
+    2. What happens when an element is positioned absolutely? 
+        its position is fixed
+
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+        element{displey:inline;}
+
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+        3 blocks are section, nav, footer.  2 inline are a, img. 1 inline block it div
+
+    5. In your own words, explain the box model. What is the fix for the box model? 
+        each element can be considered as being inside of an invisible box. To fix it you can customixe the box with colors and borders
